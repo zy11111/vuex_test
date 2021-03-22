@@ -1,0 +1,95 @@
+{
+	"code": 1,
+	"msg": "success!",
+	"time": "2020-06-28 21:05:47",
+	"end": true,
+	"data": [
+      {
+        "title": "Select",
+        "id": "0",
+        "type": "select",
+        "options": [
+          {
+            "value": "fruit",
+            "id": "10",
+            "type": "option",
+            "children": [
+              {
+                "label": "input",
+                "title": "Apple",
+                "id": "11",
+                "type": "text",
+                "value": "Apple",
+                "isRequired": true
+              },
+              {
+                "label": "input",
+                "title": "Orange",
+                "id": "12",
+                "type": "text",
+                "value": "Orange",
+                "isRequired": true
+              },
+              {
+                "label": "input",
+                "title": "Banana",
+                "id": "13",
+                "type": "text",
+                "value": "Banana",
+                "isRequired": true
+              }
+            ]
+          },
+          {
+            "value": "animals",
+            "id": "20",
+            "type": "option",
+            "children": [
+              {
+                "label": "input",
+                "title": "cat",
+                "id": "21",
+                "type": "text",
+                "value": "cat",
+                "isRequired": true
+              },
+              {
+                "label": "input",
+                "title": "dog",
+                "id": "22",
+                "type": "text",
+                "value": "dog",
+                "isRequired": true
+              },
+              {
+                "label": "input",
+                "title": "tiger",
+                "id": "23",
+                "type": "button",
+                "value": "tiger",
+                "isRequired": true
+              }
+            ]
+          },
+          {
+            "value": "leaf",
+            "id": "30",
+            "type": "option",
+            "children": [
+              {
+                "label": "input",
+                "title": "tiger",
+                "id": "31",
+                "type": "textarea",
+                "value": "ggggg",
+                "isRequired": true
+              }
+            ]
+          }
+        ]
+        
+      }
+      
+  ]
+}
+	

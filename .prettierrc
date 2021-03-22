@@ -1,0 +1,5 @@
+//格式化工具的配置文件
+{
+  "semi": false,  //不使用分号
+  "singleQuote": true  //使用单引号
+}
